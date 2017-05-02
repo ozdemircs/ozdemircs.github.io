@@ -447,7 +447,7 @@ Tüm öğrencilerimiz ve firmalarımız davetlidir.
         <div class="copyright-section">
             <div class="container">
                 <div class="col-md-12">
-                    <div class="copytext text-center">&copy; Conference. All rights reserved | Design By: <a href="https://uicookies.com">uiCookies</a></div>
+                    <div class="copytext text-center">&copy; Conference. All rights reserved | Design By: uiCookies</div>
                 </div>
             </div>
             <!-- .container -->
@@ -470,7 +470,7 @@ Tüm öğrencilerimiz ve firmalarımız davetlidir.
 <script src="js/jquery.easing.min.js"></script>
 
 <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?KEY=AIzaSyCMIsJ_7WumFOjd0QpdJYcYKEYHYu1r7dY"></script>
 
 <!--<script src="js/one-page-nav.js"></script>-->
 <script src="js/scripts.js"></script>
